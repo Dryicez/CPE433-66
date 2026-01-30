@@ -1,4 +1,4 @@
-
+//everything finish
 namespace DNWS
 {
     public interface IPlugin
